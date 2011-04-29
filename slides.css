@@ -1,0 +1,15 @@
+body {
+  font-family: Ubuntu, sans-serif;
+}
+
+.slide {
+  background: #eee
+}
+
+.subsection {
+  background: white;
+  color: #390;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2)
+  font-weight: bold;
+}
+
