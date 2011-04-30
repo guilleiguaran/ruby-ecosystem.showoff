@@ -12,5 +12,5 @@ And visit http://localhost:9090 in your browser.
 ## [Live on Heroku](http://ruby-ecosystem.heroku.com)
 
 ## Authors
-German Garcia
-Guillermo Iguaran
+* German Garcia
+* Guillermo Iguaran
