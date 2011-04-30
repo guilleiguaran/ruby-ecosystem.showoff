@@ -4,7 +4,7 @@ Presentation for FLISOL '11
 ## Running locally
 To run presentation locally execute the next commands in presentation folder:
 
-    $ bundle install
+    $ bundle install # Only run it first time
     $ showoff serve
 
 And visit http://localhost:9090 in your browser.
