@@ -9,10 +9,8 @@
 # HAPPY SATURDAY!!! #
 
 !SLIDE
-# Welcome to FLISOL 'XI #
+# Welcome to FLISOL '11 #
 
-!SLIDE
-# "X-TREME IMPROVED" FLISOL!!! #
 
 !SLIDE
 # Guillermo Iguaran #
