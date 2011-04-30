@@ -1,1 +1,7 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "Ruby on Rails Ecosystem",
+  "sections": [
+    {"section":"intro"},
+    {"section":"ruby"},
+    {"section":"rails"}
+  ]
+}
