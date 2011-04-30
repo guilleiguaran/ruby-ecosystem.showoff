@@ -2,6 +2,7 @@
   "sections": [
     {"section":"intro"},
     {"section":"ruby"},
-    {"section":"rails"}
+    {"section":"rails"},
+    {"section":"resources"}
   ]
 }
