@@ -2,6 +2,10 @@
 # Rails #
 ![Rails](rails.png)
 
+!SLIDE center
+## Creator ##
+![DHH](dhh.png)
+## David Heinemeier Hansson (dhh) ##
 
 !SLIDE
 # Rails #
