@@ -26,18 +26,19 @@
 
 !SLIDE
 # @anteseraotro #
-# @gealgaro #
+# @robermiranda #
 
 !SLIDE
 # guilleiguaran@gmail.com #
-# gealgaro@gmail.com #
+# rjmaltamar@gmail.com #
 
 !SLIDE
 # ruby on rails developers #
 # open source developers #
 
 !SLIDE center
-# Ruby on Rails Ecosystem #
+# Ruby on Rails #
+# Web development that doesn't hurt #
 
 !SLIDE center
 # Rails #
