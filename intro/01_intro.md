@@ -12,13 +12,9 @@
 !SLIDE
 # Welcome to Barcamp '12 #
 
-
 !SLIDE
 # Guillermo Iguaran #
 # Roberto Miranda #
-
-!SLIDE center
-![Pulp Fiction](pulp-fiction.png)
 
 !SLIDE center
 ## Quilla.rb ##

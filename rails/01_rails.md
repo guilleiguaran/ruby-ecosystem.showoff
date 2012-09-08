@@ -15,11 +15,27 @@
 # Rails #
 ### Here's the Rails gospel: Promote good ideas and technologies. See Ajax, REST, Atom, testing. Rails is a curated set of tech choices." ###
 
-!SLIDE bullets incremental
-# Rails #
-* Full Stack Framework
-* Agile Development
-* CRUD
+!SLIDE
+# Web Application Framework #
+
+!SLIDE
+# Web Application Template #
+
+!SLIDE
+# Convention over Configuration
+
+!SLIDE
+# Just Fill the blanks #
+
+!SLIDE
+# Java meets PHP #
+
+!SLIDE
+## Architectural purity of Java ##
+## Easy immediacy of PHP ##
+
+!SLIDE
+## Solve *only* real problems ##
 
 !SLIDE bullets incremental
 ## Rails is easy to deploy ##
