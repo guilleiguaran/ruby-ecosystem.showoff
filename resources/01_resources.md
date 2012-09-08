@@ -29,7 +29,7 @@
 ## PROBLEM? ##
 
 !SLIDE center
-## [Ruby-Ecosystem.heroku.com](http://ruby-ecosystem.heroku.com) ##
-## [Source code of this presentation](https://github.com/guilleiguaran/ruby-ecosystem.showoff) ##
+## [http://rails-barcamp.herokuapp.com/](http://rails-barcamp.herokuapp.com/) ##
+## [Source code of this presentation](https://github.com/robertomiranda/rails-barcamp) ##
 ![Thanks](thanks.png)
 ## THANKS!! ##
