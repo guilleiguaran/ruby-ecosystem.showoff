@@ -16,12 +16,8 @@
 # Guillermo Iguaran #
 # Roberto Miranda #
 
-!SLIDE center
-## Quilla.rb ##
-![Quilla.rb](quillarb.png)
-
 !SLIDE
-# @anteseraotro #
+# @guilleiguaran #
 # @robermiranda #
 
 !SLIDE
