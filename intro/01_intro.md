@@ -1,6 +1,7 @@
 !SLIDE center
 ![Rails](rails.png)
-# Ruby on Rails Ecosystem #
+# Rails #
+# Web development that doesn't hurt #
 
 !SLIDE
 # GOOD MORNING!!! #
@@ -9,12 +10,12 @@
 # HAPPY SATURDAY!!! #
 
 !SLIDE
-# Welcome to FLISOL '11 #
+# Welcome to Barcamp '12 #
 
 
 !SLIDE
 # Guillermo Iguaran #
-# German Garcia #
+# Roberto Miranda #
 
 !SLIDE center
 ![Pulp Fiction](pulp-fiction.png)
