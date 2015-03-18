@@ -25,6 +25,6 @@
 
 !SLIDE center
 ## [http://rails-basics-101.herokuapp.com/](http://rails-basics-101.herokuapp.com/) ##
-## [Source code of this presentation](https://github.com/guilleiguaran/rails-basics-101) ##
-![Thanks](thanks.png)
+## [Source code of this presentation](https://github.com/guilleiguaran/ruby-ecosystem.showoff) ##
+
 ## THANKS!! ##
