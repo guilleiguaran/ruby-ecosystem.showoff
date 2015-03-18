@@ -1,6 +1,5 @@
 !SLIDE center
 # Resources #
-![Vincent](resources.gif)
 
 !SLIDE bullets
 ## Websites ##
@@ -25,11 +24,7 @@
 * [Addison-Wesley Professional Ruby Series](http://www.informit.com/imprint/series_detail.aspx?ser=2124042)
 
 !SLIDE center
-![Lobo](lobo.png)
-## PROBLEM? ##
-
-!SLIDE center
-## [http://rails-barcamp.herokuapp.com/](http://rails-barcamp.herokuapp.com/) ##
-## [Source code of this presentation](https://github.com/robertomiranda/rails-barcamp) ##
+## [http://rails-basics-101.herokuapp.com/](http://rails-basics-101.herokuapp.com/) ##
+## [Source code of this presentation](https://github.com/guilleiguaran/rails-basics-101) ##
 ![Thanks](thanks.png)
 ## THANKS!! ##
